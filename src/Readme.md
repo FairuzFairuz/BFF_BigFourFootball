@@ -36,7 +36,7 @@ Hierachy of App:
 .env keys:
 
 1. API key: <your API key from "api-football.com">
-2. Airtable token/key: <your airtable token>
+2. Airtable token/key: <your "airtable token">
 
 Technologies Used:
 React
